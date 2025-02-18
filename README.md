@@ -2,10 +2,10 @@
 relate to a codeing direction, collect thesis
 
 # agent code
-2024: CODEAGENT: Enhancing Code Generation with tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges
+2024: CODEAGENT: Enhancing Code Generation with tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges<br>
 提出codeagentbench仓库级别代码生成的基准。提出仓库级别代码生成的方法。使用4个agent策略：react, tool-planning, OpenAIFunc, Rule-based
 
-2024: [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924)
+2024: [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924)<br>
 提出统一的语言规范，促进多代理协同，为LLM代理之间自主解决任务
 
 2024: [Enhancing LLM-Based Coding Tools through Native Integration of IDE-Derived Static Context](https://arxiv.org/pdf/2402.03630)
